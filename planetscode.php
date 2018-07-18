@@ -21,7 +21,7 @@ if ($result->num_rows > 0) {
         echo '<tr>';
         
 		echo '<td>';
-        echo '<img src="images/'.strtolower($row["planetname"]).'.jpg" style="width:200px;">';
+		echo '<img src="images/'.strtolower($row["planetname"]).'.jpg" style="width:200px;">';
 		echo '</td>';
 		
 		echo '<td>';
