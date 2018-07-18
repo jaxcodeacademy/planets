@@ -1,3 +1,4 @@
+<!-- Created by Dr. Fitzmeyer for Jax Code Academy -->
 <?php
 $servername = "localhost";
 $username = "username";
